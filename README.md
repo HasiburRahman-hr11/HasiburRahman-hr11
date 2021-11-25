@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasibur Rahman</h1>
 <h3 align="center">A MERN Stack Developer From Dhaka, Bangladesh</h3>
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasiburrahman-hr11&label=Profile%20views&color=0e75b6&style=flat" alt="hasiburrahman-hr11" /> </p>
 
