@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native and Next Js**
 
-- 👨‍💻 All of my projects are available at [https://hrfolio.netlify.app/](https://hrfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-hasib.netlify.app/](https://dev-hasib.netlify.app/)
 
 - 💬 Ask me about **React, Express, Node, MongoDB**
 
