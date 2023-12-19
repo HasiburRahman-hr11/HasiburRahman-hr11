@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdhasiburrahman47@gmail.com**
 
-- 📄 Know about my experiences [https://hrfolio.netlify.app/](https://hrfolio.netlify.app/)
+- 📄 Know about my experiences [https://dev-hasib.netlify.app/](https://dev-hasib.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
