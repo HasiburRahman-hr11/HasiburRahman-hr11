@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasiburrahman-hr11" alt="hasiburrahman-hr11" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and Next Js**
 
 - 👨‍💻 All of my projects are available at [https://dev-hasib.netlify.app/](https://dev-hasib.netlify.app/)
 
